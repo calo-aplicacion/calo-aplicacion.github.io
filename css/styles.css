@@ -99,3 +99,9 @@ body {
         font-size: 2.5em;
     }
 }
+
+.information{
+    font-size: small;
+    font-style: italic;
+    opacity: 70%;
+}
